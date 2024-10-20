@@ -1,6 +1,6 @@
 # CodeLineX Practice Environment
 
-Welcome to the CodeLineX Practice Environment, a dedicated space for developers to enhance their skills in HTML, CSS, and JavaScript. This environment is designed to foster growth and hands-on learning for developers at all levels.
+Welcome to the CodeLineX Practice Environment, a dedicated space for developers to enhance their skills in HTML, CSS, and JavaScript. This environment is designed to faster growth and hands-on learning for developers at all levels.
 
 ## Project Overview
 
