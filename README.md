@@ -1,22 +1,20 @@
-# CodeLinex HTML/CSS/JS Practice Environment
+**CodeLineX HTML/CSS/JS Practice Environment**
 
-This project is a practice environment for HTML, CSS, and JavaScript, designed to help developers improve their skills in these technologies. All credits for this project go to CodeLinex.
+Welcome to the CodeLineX Practice Environment, a dedicated space for developers to enhance their skills in HTML, CSS, and JavaScript. This environment is designed to foster growth and hands-on learning for developers at all levels.
+**Project Overview**
 
-**Important Note:**
+This practice environment offers an interactive platform to experiment with front-end technologies. Whether you’re refining your HTML structure, experimenting with CSS styling, or testing JavaScript functionality, this environment is a helpful resource for your development journey.
+Credit
 
-This project is not open-source and its source code is not available for free. However, you are free to use this environment for practice purposes without any cost.
+All rights and credits for this project belong to CodeLineX.
+**Important Notice**
 
-**Usage:**
+This project is not open-source, and its source code is not freely available. However, you are welcome to use this environment at no cost for personal practice and educational purposes.
+**How to Use**
 
-To use this practice environment, simply open the link at codelinex.org to start your practice. You can then start experimenting with HTML, CSS, and JavaScript in the provided environment.
+To get started, simply visit codelinex.org and begin exploring HTML, CSS, and JavaScript in the provided practice space. The interface is user-friendly, allowing you to dive right into coding without setup hassles.
+**Disclaimer**
 
-**Disclaimer:**
+The source code for this environment remains proprietary. It is intended solely for personal use and learning. Commercial use or distribution of the code without the express permission of CodeLineX is prohibited.
 
-Please note that the source code of this project is not available for free and should not be used for any commercial purposes without explicit permission from CodeLinex.
-
-
-
-
-
-
-
+**For further inquiries or to request permissions, please contact CodeLineX directly.**
