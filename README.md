@@ -16,7 +16,7 @@ This project is not open-source, and its source code is not freely available. Ho
 
 ## How to Use
 
-To get started, simply visit [codelinex.org](http://codelinex.org) and begin exploring HTML, CSS, and JavaScript in the provided practice space. The interface is user-friendly, allowing you to dive right into coding without setup hassles.
+To get started, simply visit [Practice Code Editor](https://codelinex-basic-practice-editor.netlify.app/) and begin exploring HTML, CSS, and JavaScript in the provided practice space. The interface is user-friendly, allowing you to dive right into coding without setup hassles.
 
 ## Disclaimer
 
